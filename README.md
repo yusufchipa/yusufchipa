@@ -1,4 +1,4 @@
-## 💫 About Me:
+## 👾 About Me:
 Hi, I'm Yusuf — a Computer Science student with a passion for development<br>
 I'm a web developer and a beginner mobile app developer<br>
 I leverage AI tools for fast and efficient development, while having a solid grasp of core programming concepts<br>
