@@ -1,5 +1,8 @@
-# 💫 About Me:
-Hi, I am Yusuf. I am a Student pursuing Computer-Science<br>I am a Web Developer aswell as a beginner Mobile app developer<br>I utilize AI tools for fast and seamless development but i still do have a good understanding of basic programming concepts<br>Always lookign for oppurtunities to learn and earn more<br>
+## 💫 About Me:
+Hi, I'm Yusuf — a Computer Science student with a passion for development<br>
+I'm a web developer and a beginner mobile app developer<br>
+I leverage AI tools for fast and efficient development, while having a solid grasp of core programming concepts<br>
+Always on the lookout for opportunities to learn more and grow professionally<br>
 
 
 ## 🌐 Socials:
