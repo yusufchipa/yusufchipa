@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a vibe-driven developer who believes in building cool and meaningful projects — often with a little help from AI tools to speed things up. While I'm all about productivity, I’ve got a solid grip on the fundamentals of programming, too.<br><br>💻 Tech Stack:<br>Next.js · Laravel · React.js · Python · Flutter<br><br>🌐 I mostly build web apps, but I dabble in mobile development as well.<br><br>🎮 Current Projects:<br><br>    A game based on the Prisoner’s Dilemma<br><br>    A therapy app aimed at mental wellness<br><br>    A lightweight online mini-game<br><br> Learn, Build, Vibe and Enjoy the Journey
+Hi, I am Yusuf. I am a Student pursuing Computer-Science<br><br>I am a Web Developer aswell as a beginner Mobile app developer<br><br>I utilize AI tools for fast and seamless development but i still do have a good understanding of basic programming concepts<br><br>Always lookign for oppurtunities to learn and earn more<br><br><
 
 
 ## 🌐 Socials:
